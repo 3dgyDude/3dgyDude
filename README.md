@@ -24,12 +24,14 @@ Graduado en Ingeniería Electrónica Industrial y Automática y actualmente, est
 </p>
 
 <p align="center">
+  <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=3dgyDude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca" height="182px">
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca" height="182px">
   </a>
+  <br/>
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3dgyDude's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=3dgyDude&bg_color=011627&color=c792ea&line=584c7d&point=7fdbca&hide_border=true" /></a>
