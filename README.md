@@ -7,21 +7,47 @@
   </a>
 </p>
 
-
 Industrial Electronics and Automation Engineer, actually studying a master in Industrial Engineering with interest in:
 
 - Electronic and Automatic Systems
 - Robotic Systems
 - Machine Learning and Data Analysis
 
+## 👨‍💻 Programming Languages 
+
+<!-- https://hackr.io/es/tutorials/learn-assembly-language Assembly icon -->
+<!-- https://devicon.dev/ All other icons -->
 <p align="center">
-  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/ASM.png?raw=true" height=64px/></a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=64px/></a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=64px/></a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=64px/></a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=64px/></a>
-  <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/logo-assembly-language.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/c-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/cplusplus-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/python-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/matlab-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/html5-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/bash-original.svg?raw=true" height=64px/></a>
 </p>
+  
+## 🛠️ Libraries and Frameworks
+
+<p align="center">
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/tensorflow-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/numpy-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/pandas-original.svg?raw=true" height=64px/></a>
+</p> 
+
+## 💻 Software and tools
+ 
+<!-- https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg Arch Linux icon -->
+<!-- https://devicon.dev/ All other icons --> 
+<p align="center">
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/linux-original.svg?raw=true" height=64px/></a>
+  a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/Archlinux-icon-crystal-64.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/android-plain.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/git-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/github-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/labview-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/matlab-original.svg?raw=true" height=64px/></a>
+</p> 
   
 ## 📊 Github stats
 
