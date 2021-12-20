@@ -22,31 +22,38 @@ Industrial Electronics and Automation Engineer, actually studying a master in In
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/c-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/cplusplus-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/python-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/java-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/abbrobotstudio-colored.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/matlab-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/html5-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/bash-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/latex.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/markdown-original.svg?raw=true" height=64px/></a>
 </p>
   
 ## 🛠️ Libraries and Frameworks
 
 <p align="center">
-  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/tensorflow-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/arduino-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/numpy-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/pandas-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/tensorflow-original.svg?raw=true" height=64px/></a>
 </p> 
 
 ## 💻 Software and tools
  
 <!-- https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg Arch Linux icon -->
+<!-- https://simpleicons.org/ ABB RobotStudio -->
 <!-- https://devicon.dev/ All other icons --> 
 <p align="center">
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/linux-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/Archlinux-icon-crystal-64.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/android-plain.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/abbrobotstudio-colored.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/vscode-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/git-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/github-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/matlab-original.svg?raw=true" height=64px/></a>
-  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/abbrobotstudio-colored.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/labview-original.svg?raw=true" height=64px/></a>
 </p> 
   
