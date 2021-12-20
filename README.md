@@ -19,17 +19,17 @@ Graduado en Ingeniería Electrónica Industrial y Automática y actualmente, est
 <!-- DenverCoder1 Github readme streak stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=3dgyDude&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" height="175px">
+    <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=3dgyDude&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180px">
   </a>
 </p>
 
 <p align="center">
 <br/>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=3dgyDude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&count_private=true&include_all_commits=true" height="175px"/>
+  <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=3dgyDude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&count_private=true&include_all_commits=true" height="180px"/>
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&card_width=300" height="175px"/>
+  <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&card_width=300" height="180px"/>
 </a>
 <br/>
 </p>
