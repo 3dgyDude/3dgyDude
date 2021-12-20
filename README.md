@@ -3,35 +3,33 @@
 <!-- DenverCoder1 Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=%2301719F&size=40&vCenter=true&width=750&lines=Welcome+to+my+profile%2C+I'm+Jesus;An+Electronics+and+Automation+Ingeneer;Nice+to+meet+you!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=%23035080&size=40&vCenter=true&width=750&lines=Welcome+to+my+profile%2C+I'm+Jesus;An+Electronics+and+Automation+Engeneer;Nice+to+meet+you!">
   </a>
 </p>
 
 
-Graduado en Ingeniería Electrónica Industrial y Automática y actualmente, estudiante de Máster en Ingeniería Industrial, con interés en:
+Industrial Electronics and Automation Engineer, actually studying a master in Industrial Engineering with interest in:
 
-- Sistemas electrónicos y automáticos
-- Sistemas robóticos
-- Machine Learning y Data Analysis
+- Electronic and Automatic Systems
+- Robotic Systems
+- Machine Learning and Data Analysis
 
 ## 📊 Github stats
 
 <!-- DenverCoder1 Github readme streak stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=3dgyDude&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180px">
+    <img title="🔥 3dgyDude's Streak Stats" alt="🔥 3dgyDude's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=3dgyDude&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180px">
   </a>
 </p>
 
 <p align="center">
-<br/>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=3dgyDude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&count_private=true&include_all_commits=true" height="180px"/>
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img title="🔥 3dgyDude Streak stats" alt="🔥 3dgyDude Streak stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&card_width=300" height="180px"/>
-</a>
-<br/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="💻 3dgyDude's Github Stats" alt="💻 3dgyDude's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=3dgyDude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&count_private=true&include_all_commits=true" height="180px"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="💻 3dgyDude's Top Languages" alt="💻 💻 3dgyDude's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&card_width=300" height="180px"/>
+  </a>
 </p>
   
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3dgyDude's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=3dgyDude&bg_color=011627&color=c792ea&line=584c7d&point=7fdbca&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img title="💻 3dgyDude's Activity Graph" alt="💻 3dgyDude's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=3dgyDude&bg_color=011627&color=c792ea&line=584c7d&point=7fdbca&hide_border=true" /></a>
