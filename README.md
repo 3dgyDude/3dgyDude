@@ -15,6 +15,7 @@ Industrial Electronics and Automation Engineer, actually studying a master in In
 - Machine Learning and Data Analysis
 
 <p align="center">
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/ASM.png?raw=true" height=64px/></a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=64px/></a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=64px/></a>
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=64px/></a>
