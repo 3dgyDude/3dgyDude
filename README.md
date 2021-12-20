@@ -45,8 +45,9 @@ Industrial Electronics and Automation Engineer, actually studying a master in In
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/android-plain.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/git-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/github-original.svg?raw=true" height=64px/></a>
-  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/labview-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/matlab-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/abbrobotstudio-colored.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/labview-original.svg?raw=true" height=64px/></a>
 </p> 
   
 ## 📊 Github stats
