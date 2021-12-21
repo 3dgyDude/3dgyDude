@@ -34,18 +34,19 @@ Industrial Electronics and Automation Engineer, actually studying a master in In
 ## 🛠️ Libraries and Frameworks
 
 <p align="center">
-  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/arduino-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/numpy-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/pandas-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/tensorflow-original.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/arduino-original-wordmark.svg?raw=true" height=64px/></a>
 </p> 
 
 ## 💻 Software and tools
  
 <!-- https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg Arch Linux icon -->
-<!-- https://simpleicons.org/ ABB RobotStudio -->
+<!-- https://simpleicons.org/ ABB RobotStudio, Adobe -->
 <!-- https://devicon.dev/ All other icons --> 
 <p align="center">
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/adobe.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/linux-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/Archlinux-icon-crystal-64.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/android-plain.svg?raw=true" height=64px/></a>
