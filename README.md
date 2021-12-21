@@ -38,6 +38,7 @@ Industrial Electronics and Automation Engineer, actually studying a master in In
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/pandas-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/tensorflow-original.svg?raw=true" height=64px/></a>
   <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/arduino-original-wordmark.svg?raw=true" height=64px/></a>
+  <a> <img src="https://github.com/3dgyDude/3dgyDude/blob/main/images/raspberrypi-colored.svg?raw=true" height=64px/></a>
 </p> 
 
 ## 💻 Software and tools
