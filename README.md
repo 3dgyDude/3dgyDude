@@ -1,5 +1,3 @@
-<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3dgyDude%2F3dgyDude&count_bg=%23CB5DB9&title_bg=%23A30C9D&icon=github.svg&icon_color=%23EAE7E7&title=Profile+views&edge_flat=true">
-
 <!-- DenverCoder1 Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
