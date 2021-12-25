@@ -71,7 +71,7 @@ Industrial Electronics and Automation Engineer, actually studying a master in In
     <img title="💻 3dgyDude's Github Stats" alt="💻 3dgyDude's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=3dgyDude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&count_private=true&include_all_commits=true" height="175px"/>
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="💻 3dgyDude's Top Languages" alt="💻 💻 3dgyDude's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&card_width=300" height="175px"/>
+    <img title="💻 3dgyDude's Top Languages" alt="💻 💻 3dgyDude's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dgyDude&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=011627&title_color=c792ea&icon_color=7fdbca&text_color=ffeb95&card_width=300" height="175px"/>
   </a>
 </p>
   
